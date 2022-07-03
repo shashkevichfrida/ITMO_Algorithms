@@ -1,1 +1,1 @@
-# ITMO_Algorithms
+Algorithms and data structures first year
